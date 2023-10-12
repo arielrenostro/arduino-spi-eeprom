@@ -1,6 +1,4 @@
-# arduino-spi-eeprom
-Arduino SPI EEPROM Read/Write ST 95080 8Kbit 
-
+# Arduino SPI EEPROM
 Simple project to read and write a ST 95080 8Kbit/1KB EEPROM.
 
 ## PINS
