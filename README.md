@@ -16,5 +16,5 @@ Simple project to read and write a ST 95080 8Kbit/1KB EEPROM.
 Simple push button with ground resistor that gives high signal in D5.
 
 
-## Circuit in protoboard
+## Protoboard Circuit
 ![Circuit protoboard](circuit.jpeg)
