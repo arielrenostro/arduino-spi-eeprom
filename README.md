@@ -1,2 +1,22 @@
 # arduino-spi-eeprom
-Arduino SPI EEPROM Read/Write M95080 9Kbit 
+Arduino SPI EEPROM Read/Write ST 95080 8Kbit 
+
+Simple project to read and write a ST 95080 8Kbit/1KB EEPROM.
+
+## PINS
+### ST 95080
+1 - D10<br>
+2 - D12<br>
+3 - VSS (5v)<br>
+4 - GND<br>
+5 - D11<br>
+6 - D13<br>
+7 - VSS (5v)<br>
+8 - VSS (5v)<br>
+
+### Write button
+Simple push button with ground resistor that gives high signal in D5.
+
+
+## Circuit in protoboard
+![Circuit protoboard](circuit.jpeg)
