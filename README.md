@@ -20,4 +20,4 @@ Simple push button with ground resistor that gives high signal in D5.
 ![Circuit protoboard](circuit.jpeg)
 
 ## ST 95080 Datasheet
-![Datasheet](m95080-a145.pdf)
+[Datasheet](m95080-a145.pdf)
